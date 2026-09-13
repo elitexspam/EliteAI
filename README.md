@@ -1,7 +1,7 @@
 
 # EliteAI
 
-EliteAI — uma IA brasileira desenvolvida por João (joao2015-pbl).  
+EliteAI — uma IA brasileira desenvolvida por Elite'Xspam
 Aplicação web em Flask com interface HTML que serve como front-end para um agente conversacional.
 
 ---
